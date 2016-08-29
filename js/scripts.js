@@ -31,7 +31,6 @@ $(document).ready(function() {
 
     $(".display").html("$" + finalPrice + ".00");
 
-    $("#cat").show().append();
 
 
   });
