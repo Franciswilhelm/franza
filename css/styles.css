@@ -1,1 +1,43 @@
+.btn {
+  margin-top: 30px;
+}
 
+body {
+  background-image: url(../halo.jpg);
+  background-size: cover;
+}
+
+.jumbotron {
+  font-weight: 500;
+  color: black;
+  line-height: 26.4px;
+  color: red;
+    text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.5);
+
+}
+
+
+
+.container {
+  background-color: rgba(0, 0, 0, 0.5);
+  color: red;
+    text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
+    padding-bottom: 40px;
+}
+
+.display {
+  font-weight: bolder;
+  color: red;
+  font-size: 25px;
+
+  }
